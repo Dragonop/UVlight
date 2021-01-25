@@ -1,7 +1,7 @@
 # UVlight
 [![ContentDB](https://content.minetest.net/packages/smugler5/uvlight/shields/title/)](https://content.minetest.net/packages/smugler5/uvlight/)
 
-UVlight is PvP texture pack for [Minetest](https://www.minetest.net/).
+**UVlight** is PvP texture pack for [Minetest](https://www.minetest.net/).
 
 
 # Downloading
