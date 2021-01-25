@@ -5,7 +5,7 @@ UVlight is PvP texture pack for [Minetest](https://www.minetest.net/).
 
 
 # Downloading
-To download this Texture Pack, smiply click [here](https://content.minetest.net/packages/smugler5/uvlight/download/).
+To download this Texture Pack, smiply click [here](https://github.com/moreavy/UVlight/archive/master.zip).
 
 ### Downloading using `git`
 1) Open *Terminal* or *Command Prompt*.
