@@ -1,6 +1,6 @@
 # UVlight
 [![ContentDB](https://content.minetest.net/packages/smugler5/uvlight/shields/title/)](https://content.minetest.net/packages/smugler5/uvlight/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/moreavy/UVlight/blob/master/LICENSE)
 
 **UVlight** is PvP texture pack for [Minetest](https://www.minetest.net/).
 
